@@ -3,7 +3,7 @@ WhatsApp is introducing new Yellow Pages-like features to help users find busine
 
 The encrypted messaging service, used by over 2 billion users worldwide, said on Thursday that it’s expanding a feature called ‘Directory’ to all users in the key overseas market of Brazil to help them browse and discover local small businesses in their neighborhoods. The nationwide rollout follows WhatsApp testing the directory feature in Sao Paulo last year.
 
-WhatsApp is also introducing the ability to find larger businesses from within the app. The feature – rolling out in several markets (Brazil, Colombia, Indonesia, Mexico and the U.K.), a spokesperson told TechCrunch – will allow users to browse businesses by category such as banking, food and drink and travel as well as by their names.
+WhatsApp is also introducing the ability to find larger businesses from within the app. The feature – rolling out in several markets (Brazil, Colombia, Indonesia, Mexico and the U.K.), a spokesperson told TechCrunch – will allow users to browse businesses by category such as banking, food and drink and travel as well as by their names. https://github.com/tersambo/WhatsApp-broadens-in-app-business-directory-and-search-features/blob/main/README.md
 
 The feature, called ‘Business Search,’ aims to help individuals avoid having to spend time looking for phone numbers of businesses from their websites and keying in and saving those details to their phone contacts, the company said at a WhatsApp-focused business summit in Brazil.
 
